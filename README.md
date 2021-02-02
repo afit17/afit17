@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/afityarizki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tuktukerz" height="30" width="40" /></a>
+<a href="https://instagram.com/afityarizki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="afityarizki" height="30" width="40" /></a>
+<a href="https://dribbble.com/afityarizkipahlevi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="afityarizkipahlevi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
