@@ -1,2 +1,1 @@
-<h1 align="center">Text</h1>
-<h3 align="center">Text</h3>
+[![Afit GitHub stats](https://github-readme-stats.vercel.app/api?username=afit17)](https://github.com/afit17/github-readme-stats)
